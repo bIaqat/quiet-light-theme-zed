@@ -1,0 +1,7 @@
+id = "quiet-light-theme"
+name = "Quiet Light Theme"
+version = "0.2.0"
+schema_version = 1
+authors = ["blaqat <blaqat.ag@gmail.com>"]
+description = "VSCode's Quiet Light theme for Zed"
+repository = "https://github.com/biaqat/quiet-light-theme-zed"
