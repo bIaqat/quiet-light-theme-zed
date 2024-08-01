@@ -1,6 +1,6 @@
 id = "quiet-light-theme"
 name = "Quiet Light Theme"
-version = "0.2.0"
+version = "0.5.0"
 schema_version = 1
 authors = ["blaqat <blaqat.ag@gmail.com>"]
 description = "VSCode's Quiet Light theme for Zed"

@@ -1,5 +1,3 @@
-#### !WARNING: VERY WIP
-
 # Quiet Light
 Port of the Quiet Light theme in VSCode
 
