@@ -9,6 +9,7 @@
       "style": {
         "border": "#9769dc00",
         "border.variant": "#E9E6ED",
+        "border.focused": "#9769dc00",
         "border.selected": "#9769dc00",
         "border.transparent": null,
         "border.disabled": null,
@@ -27,9 +28,9 @@
         "ghost_element.selected": "#d2dbcd",
         "ghost_element.disabled": "#f07D99",
         "text": "#333333",
-        "text.muted": "#737373",
-        "text.placeholder": "#73737390",
-        "text.disabled": "#73737370",
+        "text.muted": "#595959",
+        "text.placeholder": "#737373c0",
+        "text.disabled": "#737373a0",
         "text.accent": "#8DBF60",
         "icon": null,
         "icon.muted": null,
@@ -64,8 +65,8 @@
         "editor.invisible": "#AAAAAA",
         "editor.wrap_guide": null,
         "editor.active_wrap_guide": null,
-        "editor.document_highlight.read_background": "#c0d1e0",
-        "editor.document_highlight.write_background": "#c0d1e0",
+        "editor.document_highlight.read_background": "#c0d1e0e0",
+        "editor.document_highlight.write_background": "#c0d1e0e0",
         "terminal.background": "#F5F5F5",
         "terminal.foreground": "#333333",
         "terminal.bright_foreground": "#333333",
@@ -111,9 +112,9 @@
         "hidden.background": "#F5F5F5",
         "hidden.border": null,
         "hint": "#808080c0",
-        "hint.background": "#f2fcff",
-        "hint.border": "#4ec1e5",
-        "ignored": "#73737390",
+        "hint.background": "#F2FCFF",
+        "hint.border": "#4EC1E5",
+        "ignored": "#737373f0",
         "ignored.background": null,
         "ignored.border": null,
         "info": "#3D96B3",
@@ -196,8 +197,8 @@
             "font_weight": null
           },
           "comment.doc": {
-            "color": "#AAAAAA",
-            "font_style": "italic",
+            "color": "#448C27",
+            "font_style": "normal",
             "font_weight": null
           },
           "constant": {
@@ -218,7 +219,7 @@
           "constructor": {
             "color": "#ff0000",
             "font_style": "normal",
-            "font_weight": null
+            "font_weight": 400
           },
           "embedded": {
             "color": null,
