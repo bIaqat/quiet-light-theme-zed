@@ -1,6 +1,6 @@
 {
 	"$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-	"name": "quiet-light",
+	"name": "blaqat",
 	"author": "blaqat",
 	"themes": [
 		{
@@ -35,7 +35,7 @@
 				"element.background": "#8DBF6020",
 				"element.hover": "#E8F1FAe0",
 				"element.active": "#8DBF6050",
-				"element.selected": "#4A4A4A",
+				"element.selected": "#C9D0D9a0",
 				"element.disabled": "#3C3C3C",
 				"drop_target.background": "#C9D0D988",
 				"ghost_element.background": null,
@@ -74,6 +74,8 @@
 				"editor.background": "#F5F5F5",
 				"editor.gutter.background": "#F5F5F5",
 				"editor.subheader.background": "#F3F3F3",
+				"editor.indent_guide": "null",
+				"editor.indent_guide_active": "#737373a0",
 				"editor.active_line.background": "#E4F6D4",
 				"editor.highlighted_line.background": "#e4eaed",
 				"editor.line_number": "#6D705B",
@@ -119,7 +121,7 @@
 				"created.background": "#12ce14",
 				"created.border": "#0f7c10",
 				"deleted": "#AA3731",
-				"deleted.background": "#cd3131",
+				"deleted.background": "#cd313160",
 				"deleted.border": "#cd3131",
 				"error": "#B3655E",
 				"error.background": "#ffeaea",
@@ -340,7 +342,7 @@
 						"font_weight": null
 					},
 					"punctuation.list_marker": {
-						"color": "#777777",
+						"color": "#9C5D27",
 						"font_style": "normal",
 						"font_weight": null
 					},
@@ -395,8 +397,8 @@
 						"font_weight": null
 					},
 					"title": {
-						"color": null,
-						"font_style": null,
+						"color": "#4B69C6",
+						"font_style": "normal",
 						"font_weight": null
 					},
 					"type": {
