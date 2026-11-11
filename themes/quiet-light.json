@@ -55,7 +55,7 @@
 				"editor.wrap_guide": null,
 				"element.active": "#8DBF6050",
 				"element.background": "#4C6D2E15",
-				"element.disabled": "#3C3C3C",
+				"element.disabled": "#F5F5F5",
 				"element.hover": "#E0E0E09F",
 				"element.selected": "#C9D0D97D",
 				"elevated_surface.background": "#F3F3F3",
